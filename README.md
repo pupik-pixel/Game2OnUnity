@@ -1,1 +1,2 @@
-# Game2OnUnity
+# simple game for pc/android
+![game](game.gif)
